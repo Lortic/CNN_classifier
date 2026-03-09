@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(source /c/Users/victor/Documents/ECOLE/5A/T2/VISION/TP/TP3/CNN_classifier/venv/Scripts/activate)",
-      "Bash(python -c \"import torch, torchvision, sklearn, numpy, matplotlib, kagglehub; print\\(''torch:'', torch.__version__\\); print\\(''torchvision:'', torchvision.__version__\\); print\\(''CUDA:'', torch.cuda.is_available\\(\\)\\)\")"
-    ]
-  }
-}
