@@ -20,7 +20,7 @@ L'objectif principal est de concevoir et de comparer deux approches de classific
 
 ### Préparation des données
 
-Nous avons utilisé le dataset [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) pour l'entraînement et l'évaluation des modèles. Le script `data_preparation.py` s'occupe de télécharger et de prétraiter les données.
+Nous avons utilisé le dataset Butterfly Image Classification (https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification) pour l'entraînement et l'évaluation des modèles. Le script `data_preparation.py` s'occupe de télécharger et de prétraiter les données.
 
 ### Exécution du projet
 
