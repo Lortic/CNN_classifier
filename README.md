@@ -26,7 +26,7 @@ Nous avons utilisé le dataset Butterfly Image Classification (https://www.kaggl
 
 Pour lancer l'entraînement et l'évaluation des modèles, exécutez le script principal :
 ```bash
-python main.py
+python TP3.ipynb
 ```
 
 ## 👥 Auteurs
